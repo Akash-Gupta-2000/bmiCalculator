@@ -5,5 +5,5 @@ It is a multi screen app with simple functionality but full-on custom styling.<b
 <br><br>
 <img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/homePage.png?raw=true" width="210">|
 <img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/resultsPage.png?raw=true" width="210">|
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/drawer.png?raw=true" width="210">|
 <img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/devPage.png?raw=true" width="210">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/drawer.png?raw=true" width="210">|
