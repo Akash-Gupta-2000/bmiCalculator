@@ -1,6 +1,6 @@
-import 'package:bmicalc/about.dart';
 import 'package:bmicalc/constants.dart';
-import 'package:bmicalc/developer.dart';
+import 'package:bmicalc/drawer/about.dart';
+import 'package:bmicalc/drawer/developer.dart';
 import 'package:flutter/material.dart';
 
 class Draw extends StatefulWidget {
