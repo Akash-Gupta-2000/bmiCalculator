@@ -4,10 +4,10 @@ It is a multi screen app with simple functionality but full-on custom styling.<b
 **Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
 <br>
 ## Screenshots
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/homePage.png?raw=true" width="210">|
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/resultsPage.png?raw=true" width="210">|
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/devPage.png?raw=true" width="210">|
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/readme/drawer.png?raw=true" width="210">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/homePage.png?raw=true" width="210">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/resultsPage.png?raw=true" width="210">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/devPage.png" width="210">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/drawer.png?raw=true" width="210">|
 
 ### Found this project useful? :heart:
 
