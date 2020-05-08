@@ -18,6 +18,6 @@ If you found this project useful, then please consider giving it a :star: on Git
 ### Akash Gupta 
 **Flutter Developer** #Flutter, #Android Developer, #Passionate
 
-<a href="www.linkedin.com/in/akashgupta2000/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/akashgupta2000/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.facebook.com/profile.php?id=100011464338988"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/gupta.akash.2000/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
