@@ -1,7 +1,7 @@
 # BMI CALCULATOR
 <br>_This app is used to calculate the BMI value and corresponding weight status while taking age into consideration.<br>
 It is a multi screen app with simple functionality but full-on custom styling.<br><br>_
-Download the app from [here](https://drive.google.com/file/d/1f6NU9TmplnbFjTEnpMpNnsYyt3olrPaB/view?usp=sharing).
+Download the app from [here](https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/bmiCalculator.apk).
 
 **Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
 <br>
