@@ -6,10 +6,10 @@ Download the app from [here](https://github.com/Akash-Gupta-2000/bmiCalculator/r
 **Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
 <br>
 ## Screenshots
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/homePage.png?raw=true" width="210">|
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/resultsPage.png?raw=true" width="210">|
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/devPage.png" width="210">|
-<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/drawer.png?raw=true" width="210">
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/homePage.png?raw=true" width="200">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/resultsPage.png?raw=true" width="200">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/devPage.png" width="200">|
+<img src="https://github.com/Akash-Gupta-2000/bmiCalculator/blob/master/images/readme/drawer.png?raw=true" width="200">
 
 ### Found this project useful? :heart:
 
