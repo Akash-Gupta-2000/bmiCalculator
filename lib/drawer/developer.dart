@@ -35,7 +35,7 @@ class _DeveloperState extends State<Developer> {
               child: Column(
                 children: <Widget>[
                   Text(
-                    'Hi! I am Akash Gupta, the Sole Developer of this App and create this App to practise my App Development Skills.',
+                    'Hi! I am Akash Gupta from Bhajanpura (Delhi), the Sole Developer of this App and create this App to practise my App Development Skills.',
                     style: kLabelTextStyle.copyWith(color: Colors.white),
                     textAlign: TextAlign.center,
                   ),
@@ -47,7 +47,7 @@ class _DeveloperState extends State<Developer> {
                     ),
                   ),
                   Text(
-                    'Hope You Guys will like the App!',
+                    'Hope You Guys will like My App!',
                     style: kLabelTextStyle.copyWith(color: Colors.white),
                   )
                 ],
